@@ -27,7 +27,7 @@ Streamlit is an open source application framework in Python language. It allows 
 
 ## Test the PyChain Ledger by Storing Records
 
-Tested the `PyChain` ledger and user interface by running the Streamlit application and storing some mined blocks in the `PyChain` ledger. Then tested the blockchain validation process by using the `PyChain` ledger. To do so, complete the following steps:
+Tested the `PyChain` ledger and user interface by running the Streamlit application and storing some mined blocks in the `PyChain` ledger. Then tested the blockchain validation process by using the `PyChain` ledger. The following User Interface demonstrates the PyChain Ledger:
 
 ![PyChain Ledger UI](Images/Streamlit_PyChain_Ledger.png)
 
